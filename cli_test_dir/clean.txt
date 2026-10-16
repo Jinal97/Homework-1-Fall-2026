@@ -1,0 +1,7 @@
+the shell reads a command line splits it into words and runs it
+standard input standard output and pipes connect the filters
+a filter reads from standard input and writes to standard output
+options come first then the operands that is the convention
+redirection changes where the data goes pipes chain commands
+permissions are read write and execute for user group others
+remember the manual is your friend so read it often

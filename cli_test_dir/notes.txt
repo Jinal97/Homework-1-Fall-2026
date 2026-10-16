@@ -1,0 +1,7 @@
+The   Shell   reads a COMMAND line,   splits it into words,   and runs it.
+Standard  input,  standard  output;  and  pipes  connect  the  filters!
+A  FILTER  reads  from  standard  input   and  writes  to  standard  output.
+Options  come  first,   then  the  operands:  that  is  the  convention.
+Redirection   changes   where   the   data   goes;   pipes   chain   commands.
+Permissions   are   read,   write,   and   execute   for   USER,   GROUP,   OTHERS.
+Remember:  the  manual  is  your  friend,   so  read  it  often!

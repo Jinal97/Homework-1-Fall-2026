@@ -1,0 +1,24 @@
+Whitaker:Dana:Principal Engineer:Platform:121000:2012
+Okafor:Chidi:Security Architect:Security:118500:2015
+Delgado:Rosa:Staff Engineer:Platform:112750:2017
+Nguyen:Linh:Lead Data Scientist:Analytics:112750:2010
+Ibrahim:Yusuf:Staff Engineer:Platform:108900:2014
+Sorensen:Karl:Network Manager:Infrastructure:103400:2013
+Petrov:Anya:Security Engineer:Security:99800:2018
+Marchetti:Gio:Senior Engineer:Platform:97250:2016
+Duarte:Paulo:Senior Data Analyst:Analytics:95600:2011
+Kowalski:Ewa:Senior Engineer:Platform:93800:2019
+Adeyemi:Tunde:Systems Engineer:Infrastructure:91200:2015
+Lindqvist:Mia:Database Engineer:Platform:89400:2018
+Batra:Neel:Data Analyst:Analytics:86750:2020
+Ferreira:Ines:Site Reliability Engineer:Infrastructure:86750:2016
+Haddad:Samir:Security Analyst:Security:84300:2019
+Novak:Petra:Support Engineer:Support:81900:2017
+Yamada:Kenji:Systems Engineer:Infrastructure:79500:2021
+Moreau:Claire:Support Engineer:Support:77250:2020
+Rossi:Marco:Junior Engineer:Platform:74800:2022
+Santos:Bruno:Data Analyst:Analytics:72400:2021
+Keller:Erik:Support Specialist:Support:69900:2022
+Bauer:Frida:Junior Engineer:Platform:67500:2023
+Malik:Zara:Support Specialist:Support:64200:2023
+Chen:Sofia:Intern Engineer:Platform:52000:2024
